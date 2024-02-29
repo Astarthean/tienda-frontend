@@ -1,2 +1,2 @@
 # [FrontEnd Store](https://frontendstore-anabc.web.app/)
-### Deploy el Firebase
+### Sitio web responsive con direccionamiento y deploy en Firebase
